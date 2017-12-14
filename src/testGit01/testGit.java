@@ -7,5 +7,9 @@ public class testGit {
 		System.out.print("123Test");
 		System.out.print("name");
 	}
-
+	
+	public void test01 (String s){
+		s.length();
+		System.out.print(s);
+	}
 }
